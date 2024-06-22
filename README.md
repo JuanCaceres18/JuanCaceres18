@@ -12,7 +12,7 @@ Hello there! I'm Juan Pablo Caceres. I am 19 and I am currently pursuing a degre
 
  
 # 📊 GitHub Stats:
-[![](https://github-readme-stats.vercel.app/api?username=juancaceres18)](https://github.com/juancaceres18/github-readme-stats)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=juancaceres18)](https://github.com/anuraghazra/github-readme-stats)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JuanCaceres18&theme=algolia)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=JuanCaceres18&theme=algolia)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=JuanCaceres18&theme=algolia&utcOffset=8)
